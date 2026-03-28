@@ -93,7 +93,7 @@ DB_PASS=password
 | Data Saving | CSV exports |
 | Dependencies | pandas, psycopg2 |
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - SQLAlchemy ORM & Alembic migrations
 - REST API with FastAPI
