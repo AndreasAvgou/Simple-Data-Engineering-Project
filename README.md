@@ -1,12 +1,12 @@
 # Simple Data Engineering Project
 
-## 📄 Abstract
+## Abstract
 
 This project implements a complete **Data Engineering Pipeline** that covers all essential stages of modern data workflows: data ingestion, cleaning, transformation, analysis, visualization, and storage. The system retrieves data from an external **API**, converts it into a structured **DataFrame**, removes missing values, and applies multiple data-processing techniques such as summary statistics and grouped aggregations.  
 The processed results are stored inside a **PostgreSQL database** and can also be exported to CSV files. The application includes structured **logging**, robust **exception handling**, a fully modularized architecture, and a **Docker Compose** environment that ensures reproducibility and portability.  
 Finally, the project produces visualizations that answer five analytical questions, demonstrating how raw API data can be transformed into actionable insights.
 
-## 📘 Introduction
+## Introduction
 
 Building end-to-end Data Engineering systems is a fundamental skill for modern data-driven applications. Such systems automate the process of collecting, processing, and analyzing data, enabling organizations to extract meaningful insights efficiently and reliably.  
 As part of the Data Engineering training sessions, the objective of this project was to design and implement a Python-based application that simulates a real-world data pipeline—from ingestion to visualization and storage.
