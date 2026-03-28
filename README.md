@@ -46,7 +46,7 @@ project/
 │── plot_module.py
 ```
 
-## 🛠 Installation & Setup
+## Installation & Setup
 
 ### 1️⃣ Clone the repository
 ```
