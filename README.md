@@ -72,7 +72,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 🌐 Environment Variables
+## Environment Variables
 
 Set in `docker-compose.yml`:
 ```
@@ -82,7 +82,7 @@ DB_USER=user
 DB_PASS=password
 ```
 
-## 🧰 Technologies Used
+## Technologies Used
 
 | Component | Technology |
 |----------|------------|
