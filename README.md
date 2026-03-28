@@ -65,7 +65,7 @@ docker-compose up --build
 - Processes the data
 - Stores it in PostgreSQL and CSV
 
-## 🧪 Run Without Docker (Optional)
+## Run Without Docker (Optional)
 
 ```
 pip install -r requirements.txt
