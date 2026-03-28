@@ -22,7 +22,7 @@ The developed application:
 
 This project represents a complete mini data engineering workflow following real industry practices: modular code structure, containerization, database integration, reproducible environments, and clear visualization of insights.
 
-## 🚀 Features
+## Features
 
 - Modular Python Architecture
 - Dockerized Python + PostgreSQL setup
@@ -30,7 +30,7 @@ This project represents a complete mini data engineering workflow following real
 - Save-to-File (CSV) functionality
 - PostgreSQL integration with Docker volume for persistent data
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 project/
