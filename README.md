@@ -1,4 +1,11 @@
+<div align="center">
+<img width="1920" height="1086" alt="Understanding-Data-Pipelines-Key-Concepts-and-Tools-Explained" src="https://github.com/user-attachments/assets/3e0896b2-69ee-4ffd-b325-fbb7e290f8bb" />
+
+
 # Simple Data Engineering Project
+  
+</div>
+
 
 ## Abstract
 
